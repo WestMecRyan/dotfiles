@@ -1,0 +1,7 @@
+// Example devcontainer.json
+{
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer"
+  ]
+}
