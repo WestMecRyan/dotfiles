@@ -2,6 +2,7 @@
 {
   "extensions": [
     "dbaeumer.vscode-eslint",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode"
   ]
 }
