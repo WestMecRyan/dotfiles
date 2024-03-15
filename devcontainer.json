@@ -1,8 +1,12 @@
 // Example devcontainer.json
 {
-  "extensions": [
-    "dbaeumer.vscode-eslint",
-    "ritwickdey.LiveServer",
-    "esbenp.prettier-vscode"
-  ]
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.LiveServer",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
 }
