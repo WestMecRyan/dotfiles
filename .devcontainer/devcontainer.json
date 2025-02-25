@@ -1,0 +1,12 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.LiveServer",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "postCreateCommand": "/bin/bash .devcontainer/setup-dotfiles.sh"
+}
